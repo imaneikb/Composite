@@ -8,7 +8,7 @@ public class Main {
 		Fichier monfichier = new Fichier() ;
 		System.out.println("Le nom de mon fichier est:");
 		System.out.println(monfichier.getNom());
-		System.out.println("La taille de mon fichier est");
+		System.out.println("size");
 
 
 		Repertoire repertoire = new Repertoire() ;
